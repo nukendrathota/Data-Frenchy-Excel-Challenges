@@ -4,14 +4,10 @@ The Data Frenchy Academy Data Challenges are designed specifically to enhance Ex
 
 These challenges have been a fantastic way to improve my proficiency with Excel tools, such as pivot tables, formulas, and data visualization features. I'm looking forward to tackling more challenges and continuing to sharpen my Excel skills!.
 
-<!--
-Quick Link 
--->
-[LinkedIN](https://www.linkedin.com/in/nukethota/)
-
 Here are my solutions to the challenges:
 
 | Challenge | Excel |
 |-----------|-------|
 | [#1](https://github.com/nukendrathota/Data-Frenchy-Excel-Challenges/blob/main/Challenges/Challenge%20%231.xlsx) | [🧮](https://github.com/nukendrathota/Data-Frenchy-Excel-Challenges/blob/main/Excel%20Solutions/DataFrenchy%20Excel%20Challenge%201.xlsx)       |
 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nukethota/) to discuss data challenges or Excel tips!
