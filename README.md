@@ -1,2 +1,8 @@
 # Data-Frenchy-Excel-Challenges
-Solutions to the Excel challenges posted by Data Frenchy.
+
+The Data Frenchy Excel Challenges are an excellent opportunity to keep your Excel skills sharp.
+
+Here's my solutions to the challenges:
+
+| Challenge   | Excel |
+| #1 | ----------- |
