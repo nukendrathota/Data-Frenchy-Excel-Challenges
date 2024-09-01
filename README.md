@@ -2,7 +2,7 @@
 
 The Data Frenchy Academy Data Challenges are designed specifically to enhance Excel skills. These challenges focus on using Excel to dive deep into datasets, helping me apply my analytical thinking to real-world scenarios. From calculating revenue and analyzing marketing spend to creating dashboards and visualizing data trends, each challenge pushes me to use Excel more effectively and efficiently.
 
-These challenges have been a fantastic way to improve my proficiency with Excel tools, such as pivot tables, formulas, and data visualization features. I'm looking forward to tackling more challenges and continuing to sharpen my Excel skills!.
+These challenges have been a fantastic way to improve my proficiency with Excel tools, such as pivot tables, formulas, and data visualization features. I'm looking forward to tackling more challenges and continuing to sharpen my Excel skills!
 
 Here are my solutions to the challenges:
 
