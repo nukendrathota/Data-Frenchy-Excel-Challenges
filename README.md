@@ -5,4 +5,4 @@ The Data Frenchy Excel Challenges are an excellent opportunity to keep your Exce
 Here's my solutions to the challenges:
 
 | Challenge   | Excel |
-| #1 | ----------- |
+| #1 | |
